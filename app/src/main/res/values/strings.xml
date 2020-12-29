@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <integer name="start_value">0</integer>
+    <integer name="zero">0</integer>
+</resources>
